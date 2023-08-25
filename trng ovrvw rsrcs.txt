@@ -16,6 +16,7 @@ yaml file was used in replacement for .properties file - in one project
 yaml has lot of issue, if any extra space it can fail. yaml lit website can check valid yaml or not.
 
 Eureka used for registry.
+http://localhost:8080/swagger-ui.html
 
 https://github.com/VishalBamal/spring-micros
 	vishalbamal@gmail.com
