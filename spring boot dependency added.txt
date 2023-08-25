@@ -1,0 +1,20 @@
+spring web
+lombok
+spring developer tools
+
+Eureka 
+	Server
+	discovery client
+
+spring boot actuator
+
+mysql
+spring jpa
+gateway
+
+
+profiles
+db
+config server
+
+mockito
