@@ -1,0 +1,55 @@
+Spring Boot and its basics
+
+Design Patterns
+DI (dependency Injection) 
+ (core infra and LIB)
+20+ apis
+Spring Modularize
+Core (Base)
+AOP
+DAO
+ORM
+Security
+REST
+
+
+Microservices
+
+--------------
+Day-1
+
+MVC
+M-> model
+V->View
+C->controller
+
+OPEN and Close principal (interfaces)
+create a new classs named : SalaryAccount and CurrentAccount and inject it in Bankingservice
+
+step1
+intil the container and class (applicationcontext)
+use the class
+3rd pass the value
+default scope of all the beans is Singleton(DP)
+Factory DP
+prototype
+
+
+---
+Restaurant
+
+-----
+Injection 
+ 1 setter
+ 2 constructor
+in spring every bean has its own lifecycle
+
+when bean get initialize
+when bean get destroy
+
+benifits of XML
+annotations
+
+1) class based (@component)
+2) Appconfig (@bean)
+
