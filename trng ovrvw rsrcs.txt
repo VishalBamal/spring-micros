@@ -1,17 +1,19 @@
 https://tcheck.co/22MMFb
 
-
 https://github.com/amarjeet-arora/boa-spring-aug
-
 
 start.spring.io
 app.diagrams.net
 codeshare.io
 
 amarjeet.arora@asreet-tech.com
-
 95528 94129
 
+swagger dependency added for documentation. It gives overview of your APIs and also tool to test them.
+API tested with postman.
+
+yaml file was used in replacement for .properties file - in one project
+yaml has lot of issue, if any extra space it can fail. yaml lit website can check valid yaml or not.
 
 https://github.com/VishalBamal/spring-micros
 	vishalbamal@gmail.com
